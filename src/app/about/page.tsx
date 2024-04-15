@@ -8,7 +8,7 @@ export default function About() {
                 <h1 className="text-4xl font-bold mb-8">Hi there</h1>
                 <div className="relative h-80 mb-8">
                     <Image
-                        src="https://picsum.photos/seed/picsum/700/400"
+                        src="https://i.imghippo.com/files/RhrJJ1713144836.jpg"
                         alt="Picture of the author"
                         layout="fill"
                         objectFit="cover"

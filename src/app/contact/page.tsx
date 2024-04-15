@@ -6,7 +6,7 @@ export default function Contact() {
         <div className="flex flex-col items-center justify-center min-h-screen py-12 px-4 sm:px-6 lg:px-8 bg-black text-white">
             <div className="max-w-3xl w-full space-y-8">
                 <div>
-                    <h2 className="mt-6 text-center text-3xl font-extrabold text-white">Let&apos;s Connect</h2>
+                    <h2 className="my-6 text-center text-3xl font-extrabold text-white">Let&apos;s Connect</h2>
                     <p className="mt-2 text-sm text-white">Thank you for visiting my portfolio website. I&apos;m thrilled that you&apos;re interested in connecting with me. Whether you have a question, a project idea, or just want to say hello, I&apos;d love to hear from you!</p>
                     <p className="mt-2 text-sm text-white">Feel free to reach out to me using the contact form below or connect with me on my social media profiles. I&apos;m always open to new opportunities and collaborations, so don&apos;t hesitate to get in touch.</p>
                 </div>

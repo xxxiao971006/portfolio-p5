@@ -11,7 +11,7 @@ export default function Home() {
         <div className="relative h-96 bg-gray-900">
           <div className="absolute inset-0">
             <Image
-              src="https://i.imghippo.com/files/KE6IL1712644447.gif"
+              src="https://i.imghippo.com/files/9ImnX1713146182.jpg"
               alt="Cover Image"
               layout="fill"
               objectFit="cover"
